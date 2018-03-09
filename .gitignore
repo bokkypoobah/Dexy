@@ -4,5 +4,7 @@
 rbtTest/testchain/geth
 rbtTest/testchain/geth.ipc
 rbtTest/testchain/history
-rbtTest/contracts
+rbtTestHash/testchain/geth
+rbtTestHash/testchain/geth.ipc
+rbtTestHash/testchain/history
 private
